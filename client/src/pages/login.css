@@ -1,0 +1,7 @@
+.modal-wrapper {
+  display: grid;
+  gap: 1rem;
+  width: auto;
+  padding: 1rem;
+  border: 2px solid;
+}
